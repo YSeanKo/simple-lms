@@ -1,5 +1,5 @@
-# :books: Simple LMS
-Simple Library Management System using C#.NET
+# Simple LMS
+:books: Simple Library Management System using C#.NET
 ***
 ### Synopsis
 
