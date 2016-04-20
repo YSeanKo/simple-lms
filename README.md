@@ -5,6 +5,9 @@
 
 A group project for .NET Programming subject. 
 
+Project is hosted at 
+http://hackeduser-001-site1.ctempurl.com
+
 ### Requirements
 
 1. VS Express For Web 2012
